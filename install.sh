@@ -1,6 +1,6 @@
 echo -e "\n----> installing requirements <----\n"
 
-# sudo apt update && sudo apt install python3 python3-tk python3-venv -y
+sudo apt update && sudo apt install python3 python3-tk python3-venv -y
 
 echo -e "\n----> building python executable <----\n"
 
