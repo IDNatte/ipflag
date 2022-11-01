@@ -1,6 +1,6 @@
 # IPFlag for polybar
 
-## Hot it look ?
+## How it look ?
 
 ![gui mode](./docs/img/GUI_mode.png)
 
